@@ -1,0 +1,7 @@
+- Git is abstract theory, GitLab GitHub Bitbucket... is implement
+- LOCAL REPO: branch, commit, working-directory/stage/commit, stash, tracking
+- REMOTE: all aboves, remote up/down stream, fetch, pull, push
+
+- BRANCH: merge, rebase, reset, revert
+- TRACKING: /.git/objects, HEAD, ref,
+
