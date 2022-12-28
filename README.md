@@ -1,2 +1,2 @@
 # git-practice
-Repostiory for practice with git
+Repostiory for practice with git :')
