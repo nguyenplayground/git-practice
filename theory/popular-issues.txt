@@ -1,0 +1,13 @@
+
+git config pull.rebase false
+
+local config user and email
+
+change remote origin
+
+newlines across platforms: Windows vs Unix-liked
+
+how to avoid conflict
+
+too hard to resolve conflict
+
